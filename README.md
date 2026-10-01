@@ -1,3 +1,9 @@
+> **Portfolio focus:** AI Security · LLM Security · Agentic AI · Security-to-Governance Traceability
+>
+> This repository contains the 16-article technical AI Security series, treating LLM security as one layer of a broader AI system security architecture.
+
+---
+
 # AI-Security-Levels
 
 A 16-article technical series exploring AI security as a **system-level discipline**, extending beyond LLM-only security into data, models, supply chain, infrastructure, storage, APIs, LLM/application risks, agentic systems, monitoring and governance.
